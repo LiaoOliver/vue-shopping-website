@@ -1,4 +1,4 @@
-# y
+# Vue 電商 Demo
 
 > A Vue.js project
 
